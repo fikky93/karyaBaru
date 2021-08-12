@@ -1,0 +1,19 @@
+body {
+	background-color: white;
+}
+.jumbotron {
+	padding-top: 2rem;
+	background-color: black;
+}
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+}
+.text-muted,
+hr,
+p {
+	color: #6c757d !important;
+}
+h1 {
+	color: white;
+}
